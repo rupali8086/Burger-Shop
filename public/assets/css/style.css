@@ -7,6 +7,9 @@ img {
     position: relative;
     top: 10px;
 }
+nav  {
+  background-color: orange;
+}
 
 #github  {
 	border: 6;
@@ -214,7 +217,9 @@ input:not([type]), input[type=text], input[type=password], input[type=email], in
    /*footer*/
    footer.page-footer {
        padding-top: 20px;
-       background-color: #ee6e73;
+       /*background-color: black;*/
+       background-size: cover;
+       background-image: url("https://png.pngtree.com/thumb_back/fh260/back_pic/03/62/58/9757aaf3c35b691.jpg");
        position: relative;
        display: block;
        float: left;
