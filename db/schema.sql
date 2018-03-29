@@ -2,8 +2,8 @@
 
 ### Schema
 /*create databease*/
-CREATE DATABASE burger_db;
-USE burger_db;
+CREATE DATABASE v3t78lyxu3y727zd;
+USE v3t78lyxu3y727zd;
 
 CREATE TABLE burger
 (
